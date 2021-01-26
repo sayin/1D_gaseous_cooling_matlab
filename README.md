@@ -9,4 +9,6 @@ A superior 1-D analytical model in MATLAB for  gaseous film cooling applicable t
 
 This repository contains MATLAB script tuned for gaseous cooling for 1D flat plate and in progress for extending for a specific genric rocket nozzle.
 
-<img src="cooling.png" width="55%" />
+<img src="cooling.png" width="35%" />
+
+
