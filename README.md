@@ -11,4 +11,5 @@ This repository contains MATLAB script tuned for gaseous cooling for 1D flat pla
 
 <img src="cooling.png" width="35%" />
 
+<img src="fluent.png" width="35%" />
 
