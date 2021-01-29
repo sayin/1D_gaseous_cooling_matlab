@@ -1,5 +1,4 @@
 %% Harsha Vaddireddy
-%% Graduate Research Assitant-CFD Lab OSU
 %% Main Code for Gasesous cooling 
 clc
 clear all
