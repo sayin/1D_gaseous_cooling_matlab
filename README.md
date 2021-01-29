@@ -1,4 +1,4 @@
-># Gaseous cooling using 1D analytical model 
+># Gaseous cooling using 1D model 
 
 <img src="cooling.png" width="35%" />
 
