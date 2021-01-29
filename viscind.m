@@ -1,5 +1,4 @@
 %% Harsha Vaddireddy
-%% Graduate Research Assitant-CFD Lab OSU
 %% Function for polynomial viscosity 
 
 function [nu]  =  viscind(T,epk,sigma,M)
