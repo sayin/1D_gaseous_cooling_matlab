@@ -1,5 +1,4 @@
 %% Harsha Vaddireddy
-%% Graduate Research Assitant-CFD Lab OSU
 %% Function for specif nozzle geomnetry
 
 function [x,D,delx] = nozgeo(lm)
