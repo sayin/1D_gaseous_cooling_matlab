@@ -1,5 +1,4 @@
 %% Harsha Vaddireddy
-%% Graduate Research Assitant-CFD Lab OSU
 %% Function for accounting for radaitive heat transfer
 
 function [ dtr ] = rad(Tb,dx,M)
