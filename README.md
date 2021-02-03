@@ -16,9 +16,9 @@ This repository contains MATLAB script tuned for gaseous cooling for 1D flat pla
 
 Comparision of 1D analytical model to experimnet found in literature.
 
->**Ongoing work:**
+>**Validation work:**
 StarCCM+/Fluent simulation to validate the current 1d analytical model
 <img src="fluent.PNG" width="35%" />
 
->**Results coming soon:**
+
 
